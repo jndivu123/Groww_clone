@@ -1,0 +1,16 @@
+/* components/RoundButton.module.css */
+
+.roundButton {
+    display: inline-block;
+    border-radius: 50%;
+    width: 7vw;
+    height: 7vw;
+    color: rgb(234, 50, 50);
+    /* border: none; */
+    /* cursor: pointer; */
+    font-size: 3.5vw;
+}
+
+.roundButton:focus {
+  outline: none;
+}
